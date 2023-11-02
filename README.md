@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @CQ0113
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning at utm
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Any queries please kindly email to chuqing@graduate.utm.my
 
 <!---
 CQ0113/CQ0113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
