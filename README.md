@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/cheng qing](https://www.facebook.com/profile.php?id=100004726694669)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chengqing" height="30" width="40" /></a>
+<a href="[https://fb.com/cheng qing](https://www.facebook.com/profile.php?id=100004726694669)]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chengqing" height="30" width="40" /></a>
 <a href="https://instagram.com/chengqing113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chengqing113" height="30" width="40" /></a>
 </p>
 
